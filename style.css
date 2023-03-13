@@ -9,7 +9,7 @@ font-family: 'Inter', sans-serif;
 overflow-y: hidden;
 }
 /* ==== Main Image ==== */
-.mclaren_img{
+.helmet_img{
 background-image: url(images/helmet.jpg);
 width: 100%;
 height: 100vh;
@@ -45,5 +45,6 @@ font-size: 30px;
 /* ==== Selects all the text on webpage ==== */
 ::selection {
 background-color: #181b24;
+
 color: #ccc;
 }
